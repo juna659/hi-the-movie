@@ -1,0 +1,36 @@
+===========================
+ LICENSE PERJANJIAN (ID)
+===========================
+
+Hak Cipta © 2025. Semua hak dilindungi.
+
+Nama Aplikasi: hi-the-movie
+Pemilik Hak Cipta: JUNA
+
+Dengan memasang dan/atau menggunakan aplikasi ini, Anda setuju dengan syarat berikut:
+
+1. Anda diperbolehkan memasang dan menggunakan aplikasi ini untuk penggunaan pribadi.
+2. Anda tidak diperbolehkan menggandakan, menjual, mendistribusikan ulang, atau mengubah aplikasi ini tanpa izin tertulis dari pemilik.
+3. Aplikasi ini disediakan "apa adanya" tanpa jaminan apapun. Pengembang tidak bertanggung jawab atas kerusakan atau kehilangan data yang mungkin terjadi.
+4. Segala pelanggaran hak cipta dapat dikenakan sanksi sesuai hukum yang berlaku.
+
+Jika Anda tidak setuju dengan syarat ini, batalkan pemasangan dan hapus aplikasi.
+
+
+===========================
+ END USER LICENSE AGREEMENT (EN)
+===========================
+
+Copyright © 2025. All rights reserved.
+
+Application Name: hi-the-movie
+Copyright Owner: JUNA
+
+By installing and/or using this software, you agree to the following terms:
+
+1. You may install and use this software for personal use only.
+2. You may NOT copy, sell, redistribute, or modify this software without written permission from the owner.
+3. This software is provided "as is" with no warranties of any kind. The developer is not responsible for any damage or data loss.
+4. Any copyright violation may result in legal actions according to applicable laws.
+
+If you do not agree to these terms, cancel the installation and remove the software.
